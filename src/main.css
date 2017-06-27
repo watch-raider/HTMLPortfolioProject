@@ -1,9 +1,29 @@
+body {
+  background-color: #e6e6ff;
+}
+
 header {
-  background-image: url(https://reload.dk/sites/default/files/images/blog-post/technology.jpg);
+  background-image: url(http://www.salttechno.com/wp-content/uploads/2015/08/web-designer-pune-background.jpg);
   background-size: cover;
   width: auto;
   text-align: center;
-  color: #ffffcc;
-  height: 120px;
-
+  color: black;
+  height: auto;
+  padding: 5px;
 }
+ .tagline {
+   background-color: hsl(225, 100%, 40%);
+   color: white;
+   padding: 2px;
+ }
+
+ .skills {
+   background-color: #f2f2f2;
+   color: #000066;
+   padding: 2px;
+}
+
+.contact  {
+   border: 2px dashed black;
+   padding-left: 5%;
+ }
